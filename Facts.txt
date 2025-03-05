@@ -1,1 +1,7 @@
-TODO: Please add two fact about git
+TODO: Please add two fact about git 
+
+
+
+1. Github is spelled as g-i-t-h-u-b
+
+2. More than 2 people use github
