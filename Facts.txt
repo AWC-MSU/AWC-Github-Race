@@ -1,1 +1,6 @@
 TODO: Please add two fact about git
+
+
+git sucks
+
+git dont know whats happening
