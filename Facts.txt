@@ -1,1 +1,3 @@
 TODO: Please add two fact about git
+"github HQ is San Fransico"
+"github was founded in 2008"
