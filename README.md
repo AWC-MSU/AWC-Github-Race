@@ -14,17 +14,17 @@ Welcome to the **GitHub Scavenger Hunt**! Follow the challenges below to learn a
 
 ## Scavenger Hunt Challenges
 
-- [ ] Star this repository 
-- [ ] Watch this repository 
-- [ ] Follow another club member 
+- [x] Star this repository 
+- [x] Watch this repository 
+- [/] Follow another club member 
 
-- [ ] Create a new branch named `yourUsername-teamName`
-- [ ] Add your name to a `CONTRIBUTORS.md` file
-- [ ] Complete the TODO in the txt file
-- [ ] Commit and push your changes 
+- [x] Create a new branch named `yourUsername-teamName`
+- [x] Add your name to a `CONTRIBUTORS.md` file
+- [x] Complete the TODO in the txt file
+- [x] Commit and push your changes 
 
-- [ ] Open an issue in this repository 
-- [ ] Submit a pull request with your changes
+- [x] Open an issue in this repository 
+- [x] Submit a pull request with your changes
 
 
 ---
