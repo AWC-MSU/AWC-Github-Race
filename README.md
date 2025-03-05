@@ -16,7 +16,7 @@ Welcome to the **GitHub Scavenger Hunt**! Follow the challenges below to learn a
 
 - [x] Star this repository 
 - [x] Watch this repository 
-- [/] Follow another club member 
+- [ ] Follow another club member 
 
 - [x] Create a new branch named `yourUsername-teamName`
 - [x] Add your name to a `CONTRIBUTORS.md` file
