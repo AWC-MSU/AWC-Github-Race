@@ -1,1 +1,3 @@
-TODO: Please add two fact about git
+git was originally built by linus torvalds, the same guy who invented linux
+
+git is famously hard to learn and despite having used it for years, I only really know how to do basic stuff. 
