@@ -1,1 +1,5 @@
 TODO: Please add two fact about git
+
+git is so cool there is a gui called gitbash that you can use which sucks :)
+
+guthub makes me feel bad becuase it makes me remeber how little i code and how much money I have wasted on getting a degree
